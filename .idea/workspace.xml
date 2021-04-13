@@ -9,15 +9,6 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select>
       <path>
@@ -28,7 +19,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dee80648-4829-4927-a855-c3a3ace9657b" name="Default Changelist" comment="laravel-echo-server" />
+    <list default="true" id="dee80648-4829-4927-a855-c3a3ace9657b" name="Default Changelist" comment="laravel-echo-server">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,6 +199,8 @@
       <workItem from="1618240842362" duration="1827000" />
       <workItem from="1618318359165" duration="594000" />
       <workItem from="1618319851082" duration="2646000" />
+      <workItem from="1618322689544" duration="344000" />
+      <workItem from="1618323036240" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1617998634980</created>
@@ -261,10 +257,10 @@
       <screen x="0" y="27" width="3360" height="1053" />
     </state>
     <state x="606" y="382" width="697" height="349" key="#Composer/0.27.3360.1053@0.27.3360.1053" timestamp="1617988775324" />
-    <state x="203" y="52" width="1200" height="1009" key="#Deployment" timestamp="1618321077829">
+    <state x="203" y="52" width="1200" height="1009" key="#Deployment" timestamp="1618323468960">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="203" y="52" key="#Deployment/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618321077829" />
+    <state x="203" y="52" width="1200" height="1009" key="#Deployment/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323468960" />
     <state x="203" y="52" key="#Deployment/0.27.1920.1053@0.27.1920.1053" timestamp="1618200491429" />
     <state x="355" y="52" width="1200" height="1009" key="#Deployment/0.27.3360.1053@0.27.3360.1053" timestamp="1617988886053" />
     <state x="669" y="288" width="572" height="538" key="#New_Docker_Connection" timestamp="1617997834316">
@@ -279,31 +275,43 @@
       <screen x="0" y="27" width="3360" height="1053" />
     </state>
     <state x="553" y="438" width="814" height="238" key="ComposerInitDialogKey/0.27.3360.1053@0.27.3360.1053" timestamp="1617989583668" />
+    <state x="637" y="197" width="636" height="719" key="FileChooserDialogImpl" timestamp="1618323031989">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="637" y="197" width="636" height="719" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323031989" />
     <state x="716" y="411" width="488" height="291" key="Github.ShareDialog" timestamp="1617997767182">
       <screen x="0" y="27" width="3360" height="1053" />
     </state>
     <state x="716" y="411" width="488" height="291" key="Github.ShareDialog/0.27.3360.1053@0.27.3360.1053" timestamp="1617997767182" />
-    <state width="1848" height="232" key="GridCell.Tab.0.bottom" timestamp="1617999771214">
-      <screen x="0" y="27" width="3360" height="1053" />
+    <state width="1848" height="232" key="GridCell.Tab.0.bottom" timestamp="1618323302314">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state width="1848" height="232" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323302314" />
     <state width="1848" height="232" key="GridCell.Tab.0.bottom/0.27.3360.1053@0.27.3360.1053" timestamp="1617999771214" />
-    <state width="1848" height="232" key="GridCell.Tab.0.center" timestamp="1617999771213">
-      <screen x="0" y="27" width="3360" height="1053" />
+    <state width="1848" height="232" key="GridCell.Tab.0.center" timestamp="1618323302313">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state width="1848" height="232" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323302313" />
     <state width="1848" height="232" key="GridCell.Tab.0.center/0.27.3360.1053@0.27.3360.1053" timestamp="1617999771213" />
-    <state width="1848" height="232" key="GridCell.Tab.0.left" timestamp="1617999771212">
-      <screen x="0" y="27" width="3360" height="1053" />
+    <state width="1848" height="232" key="GridCell.Tab.0.left" timestamp="1618323302313">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state width="1848" height="232" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323302313" />
     <state width="1848" height="232" key="GridCell.Tab.0.left/0.27.3360.1053@0.27.3360.1053" timestamp="1617999771212" />
-    <state width="1848" height="232" key="GridCell.Tab.0.right" timestamp="1617999771213">
-      <screen x="0" y="27" width="3360" height="1053" />
+    <state width="1848" height="232" key="GridCell.Tab.0.right" timestamp="1618323302314">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state width="1848" height="232" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323302314" />
     <state width="1848" height="232" key="GridCell.Tab.0.right/0.27.3360.1053@0.27.3360.1053" timestamp="1617999771213" />
     <state x="2023" y="0" width="1542" height="1080" key="SettingsEditor" timestamp="1618322488388">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2023" y="0" width="1542" height="1080" key="SettingsEditor/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618322488388" />
     <state x="184" y="27" key="SettingsEditor/0.27.3360.1053@0.27.3360.1053" timestamp="1617997711074" />
+    <state width="746" height="596" key="SwitcherDM" timestamp="1618323004654">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="746" height="596" key="SwitcherDM/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323004654" />
     <state x="743" y="429" width="424" height="255" key="VCS.EditChangelistDialog" timestamp="1618322227546">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -317,17 +325,19 @@
       <screen x="0" y="27" width="3360" height="1053" />
     </state>
     <state x="617" y="433" width="676" height="247" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.3360.1053@0.27.3360.1053" timestamp="1617998426705" />
-    <state x="810" y="42" width="289" height="1036" key="ftp.server.browser" timestamp="1617988878940">
-      <screen x="0" y="27" width="3360" height="1053" />
+    <state x="463" y="42" width="279" height="1036" key="ftp.server.browser" timestamp="1618323462579">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="463" y="42" width="279" height="1036" key="ftp.server.browser/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323462579" />
     <state x="810" y="42" width="289" height="1036" key="ftp.server.browser/0.27.3360.1053@0.27.3360.1053" timestamp="1617988878940" />
     <state x="795" y="407" width="319" height="299" key="publish.login" timestamp="1618200448736">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="795" y="407" width="319" height="299" key="publish.login/0.27.1920.1053@0.27.1920.1053" timestamp="1618200448736" />
-    <state x="430" y="27" width="1056" height="1470" key="search.everywhere.popup" timestamp="1617999756208">
-      <screen x="0" y="27" width="3360" height="1053" />
+    <state x="246" y="27" width="604" height="1470" key="search.everywhere.popup" timestamp="1618323002765">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="246" y="27" width="604" height="1470" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323002765" />
     <state x="430" y="27" width="1056" height="1470" key="search.everywhere.popup/0.27.3360.1053@0.27.3360.1053" timestamp="1617999756208" />
   </component>
 </project>
