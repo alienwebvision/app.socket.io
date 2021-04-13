@@ -19,10 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dee80648-4829-4927-a855-c3a3ace9657b" name="Default Changelist" comment="laravel-echo-server">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="dee80648-4829-4927-a855-c3a3ace9657b" name="Default Changelist" comment="laravel-echo-server" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +197,7 @@
       <workItem from="1618318359165" duration="594000" />
       <workItem from="1618319851082" duration="2646000" />
       <workItem from="1618322689544" duration="344000" />
-      <workItem from="1618323036240" duration="2228000" />
+      <workItem from="1618323036240" duration="2567000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1617998634980</created>
@@ -230,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618324994484</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Install clients laravel-echo- and socket.io-client">
+      <created>1618325486320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618325486320</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +270,8 @@
     <MESSAGE value="laravel-echo-server" />
     <MESSAGE value="Config laravel-echo-server.json" />
     <MESSAGE value="Enable Broadcast Service Provider" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enable Broadcast Service Provider" />
+    <MESSAGE value="Install clients laravel-echo- and socket.io-client" />
+    <option name="LAST_COMMIT_MESSAGE" value="Install clients laravel-echo- and socket.io-client" />
   </component>
   <component name="WindowStateProjectService">
     <state x="606" y="382" width="697" height="349" key="#Composer" timestamp="1617988775324">
@@ -299,25 +304,25 @@
       <screen x="0" y="27" width="3360" height="1053" />
     </state>
     <state x="716" y="411" width="488" height="291" key="Github.ShareDialog/0.27.3360.1053@0.27.3360.1053" timestamp="1617997767182" />
-    <state width="1848" height="232" key="GridCell.Tab.0.bottom" timestamp="1618323302314">
+    <state width="1848" height="413" key="GridCell.Tab.0.bottom" timestamp="1618325424236">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1848" height="232" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323302314" />
+    <state width="1848" height="413" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618325424236" />
     <state width="1848" height="232" key="GridCell.Tab.0.bottom/0.27.3360.1053@0.27.3360.1053" timestamp="1617999771214" />
-    <state width="1848" height="232" key="GridCell.Tab.0.center" timestamp="1618323302313">
+    <state width="1848" height="413" key="GridCell.Tab.0.center" timestamp="1618325424236">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1848" height="232" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323302313" />
+    <state width="1848" height="413" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618325424236" />
     <state width="1848" height="232" key="GridCell.Tab.0.center/0.27.3360.1053@0.27.3360.1053" timestamp="1617999771213" />
-    <state width="1848" height="232" key="GridCell.Tab.0.left" timestamp="1618323302313">
+    <state width="1848" height="413" key="GridCell.Tab.0.left" timestamp="1618325424236">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1848" height="232" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323302313" />
+    <state width="1848" height="413" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618325424236" />
     <state width="1848" height="232" key="GridCell.Tab.0.left/0.27.3360.1053@0.27.3360.1053" timestamp="1617999771212" />
-    <state width="1848" height="232" key="GridCell.Tab.0.right" timestamp="1618323302314">
+    <state width="1848" height="413" key="GridCell.Tab.0.right" timestamp="1618325424236">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1848" height="232" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618323302314" />
+    <state width="1848" height="413" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618325424236" />
     <state width="1848" height="232" key="GridCell.Tab.0.right/0.27.3360.1053@0.27.3360.1053" timestamp="1617999771213" />
     <state x="43" y="27" width="1542" height="1053" key="SettingsEditor" timestamp="1618324117806">
       <screen x="0" y="27" width="1920" height="1053" />
@@ -332,10 +337,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="743" y="429" width="424" height="255" key="VCS.EditChangelistDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618322227546" />
-    <state x="203" y="158" width="822" height="797" key="Vcs.Push.Dialog.v2" timestamp="1618325033194">
+    <state x="203" y="158" width="1200" height="797" key="Vcs.Push.Dialog.v2" timestamp="1618325603629">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="203" y="158" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618325033194" />
+    <state x="203" y="158" width="1200" height="797" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618325603629" />
     <state x="203" y="158" width="822" height="797" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1618200911770" />
     <state x="355" y="158" width="1200" height="797" key="Vcs.Push.Dialog.v2/0.27.3360.1053@0.27.3360.1053" timestamp="1617998646412" />
     <state x="617" y="433" width="676" height="247" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617998426705">
