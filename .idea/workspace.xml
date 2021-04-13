@@ -19,7 +19,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dee80648-4829-4927-a855-c3a3ace9657b" name="Default Changelist" comment="laravel-echo-server" />
+    <list default="true" id="dee80648-4829-4927-a855-c3a3ace9657b" name="Default Changelist" comment="laravel-echo-server">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +200,7 @@
       <workItem from="1618318359165" duration="594000" />
       <workItem from="1618319851082" duration="2646000" />
       <workItem from="1618322689544" duration="344000" />
-      <workItem from="1618323036240" duration="2567000" />
+      <workItem from="1618323036240" duration="3000000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1617998634980</created>
@@ -234,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618325486320</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="laravel-echo-server">
+      <created>1618325627643</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618325627643</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,11 +277,11 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First Commit" />
-    <MESSAGE value="laravel-echo-server" />
     <MESSAGE value="Config laravel-echo-server.json" />
     <MESSAGE value="Enable Broadcast Service Provider" />
     <MESSAGE value="Install clients laravel-echo- and socket.io-client" />
-    <option name="LAST_COMMIT_MESSAGE" value="Install clients laravel-echo- and socket.io-client" />
+    <MESSAGE value="laravel-echo-server" />
+    <option name="LAST_COMMIT_MESSAGE" value="laravel-echo-server" />
   </component>
   <component name="WindowStateProjectService">
     <state x="606" y="382" width="697" height="349" key="#Composer" timestamp="1617988775324">
@@ -337,10 +347,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="743" y="429" width="424" height="255" key="VCS.EditChangelistDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618322227546" />
-    <state x="203" y="158" width="1200" height="797" key="Vcs.Push.Dialog.v2" timestamp="1618325603629">
+    <state x="203" y="158" width="1200" height="797" key="Vcs.Push.Dialog.v2" timestamp="1618325663082">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="203" y="158" width="1200" height="797" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618325603629" />
+    <state x="203" y="158" width="1200" height="797" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1618325663082" />
     <state x="203" y="158" width="822" height="797" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1618200911770" />
     <state x="355" y="158" width="1200" height="797" key="Vcs.Push.Dialog.v2/0.27.3360.1053@0.27.3360.1053" timestamp="1617998646412" />
     <state x="617" y="433" width="676" height="247" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617998426705">
